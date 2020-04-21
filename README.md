@@ -82,7 +82,7 @@
 
 ## 编辑器代码格式化 搭配扩展
 
-![image](https://code.jingshonline.net/zhengyan/front-end-documents-and-tools/raw/master/formatEX.jpg)
+![image](https://github.com/lvodetta/vuetools/blob/master/formatEX.jpg)
 
 ## Vue 相关文档
 
